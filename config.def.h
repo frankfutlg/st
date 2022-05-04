@@ -2,10 +2,11 @@
  * my build is very similar to his
  */
 
-static char *font = "Hack:style=Bold:pixelsize=12:antialias=true:autohint=true";
-static char *font2[] = { "IPAゴシック:style=Regular:pixelsize=12:antialias=true:autohint=true",
- 			 "Noto Color Emoji:style=Regular:pixelsixe=12:antialias=true:autohint=true", 
-			 "Symbols Nerd Font Mono:style=2048-em:pixelsize=14:antialias=true:autohint=true", };
+static char *font = "mononoki:style=Bold:pixelsize=12:antialias=true:autohint=true";
+static char *font2[] = { "Takaoゴシック:pixelsize=12:antialias=true:autohint=true",
+ 			 "JoyPixels:style=Regular:pixelsixe=12:antialias=true:autohint=true", 
+			 "Symbols Nerd Font Mono:style=2048-em:pixelsize=14:antialias=true:autohint=true",
+			 "Material Design Icons:style=Regular:pixelsize=14:antialias=true:autohint=true" };
 static int borderpx = 5;
 
 /*
